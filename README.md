@@ -1,1 +1,1 @@
-# MCK8S
+# monorepo for MCK8S training GCP project
